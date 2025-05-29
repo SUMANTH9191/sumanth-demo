@@ -5,7 +5,7 @@
 
 ## 🚀 About the Project
 
-This repository showcases a collection of embedded systems and IIoT (Industrial IoT) projects developed by **Charan M H**, a skilled embedded engineer with hands-on experience in firmware development, real-time systems, driver programming, and hardware-software integration using microcontrollers like **ESP32**, **STM32**, and **Raspberry Pi CM4**.
+This repository showcases a collection of embedded systems and IIoT (Industrial IoT) projects developed by **Sumanth H D**, a skilled embedded engineer with hands-on experience in firmware development, real-time systems, driver programming, and hardware-software integration using microcontrollers like **ESP32**, **STM32**, and **Raspberry Pi CM4**.
 
 ## 🧠 Key Projects
 
